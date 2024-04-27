@@ -4,3 +4,4 @@
 <p> <strong >GodMode.{ED7BA470-8E54-465E-825C-99712043E01C} </strong> </p>
 
 <p> <strong> If you want, you have the executable file to have God Mode automatically. You can send it to a friend in case it is difficult for them to access that mode or they do not have as much knowledge. </strong> </p>
+<p> - Mode God.bat </p>
